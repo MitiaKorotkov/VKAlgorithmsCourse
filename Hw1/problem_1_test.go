@@ -1,4 +1,4 @@
-package main
+package Hw1
 
 import "testing"
 
