@@ -23,13 +23,13 @@ func RemoveValue(list *LinkedList, value int) {
 	for curr != nil {
 		if curr.Value == value {
 			prev.Next = curr.Next
+			list.size--
 		} else {
 			prev = curr
 		}
 		curr = curr.Next
 	}
 
-	list.size--
 	list.Head = dummyHead.Next
 	list.Tail.Next = nil
 }
