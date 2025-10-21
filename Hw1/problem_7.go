@@ -22,7 +22,7 @@ func EvenFirst(arr []int) {
 	}
 }
 
-func Task7() {
+func Problem7() {
 	var size int
 	fmt.Print("Enter array size: ")
 	fmt.Scanln(&size)

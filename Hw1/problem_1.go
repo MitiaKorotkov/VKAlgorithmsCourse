@@ -30,7 +30,7 @@ func TwoSum(nums []int, target int) []int {
 	return []int{-1, -1}
 }
 
-func Task1() {
+func Problem1() {
 	var target int
 	fmt.Print("Enter target: ")
 	fmt.Scanln(&target)

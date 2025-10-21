@@ -21,7 +21,7 @@ func ReverseArray(arr []int) {
 	}
 }
 
-func Task2() {
+func Problem2() {
 	var size int
 	fmt.Print("Enter count of numbers: ")
 	fmt.Scanln(&size)

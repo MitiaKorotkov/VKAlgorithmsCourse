@@ -26,7 +26,7 @@ func ZerosLast(arr []int) {
 	}
 }
 
-func Task8() {
+func Problem8() {
 	var size int
 	fmt.Print("Enter count of students: ")
 	fmt.Scanln(&size)

@@ -32,7 +32,7 @@ func SortColors(arr []int) {
 	}
 }
 
-func Task6() {
+func Problem6() {
 	var size int
 	fmt.Print("Enter array size: ")
 	fmt.Scanln(&size)

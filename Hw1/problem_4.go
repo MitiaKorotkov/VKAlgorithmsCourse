@@ -32,7 +32,7 @@ func MergeSortedArrays(arr1 []int, arr2 []int) {
 	}
 }
 
-func Task4() {
+func Problem4() {
 	var size int
 	fmt.Print("Enter count of numbers in arr1: ")
 	fmt.Scanln(&size)

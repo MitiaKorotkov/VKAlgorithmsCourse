@@ -28,7 +28,7 @@ func SortBinArray(arr []int) {
 	}
 }
 
-func Task5() {
+func Problem5() {
 	var size int
 	fmt.Print("Enter array size: ")
 	fmt.Scanln(&size)

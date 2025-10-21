@@ -21,7 +21,7 @@ func Rotate(nums []int, k int) {
 	}
 }
 
-func Task3() {
+func Problem3() {
 	var size int
 	fmt.Print("Enter count of numbers: ")
 	fmt.Scanln(&size)
