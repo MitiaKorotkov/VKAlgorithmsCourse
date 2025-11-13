@@ -1,9 +1,9 @@
 package main
 
-import "VKCourse/Hw2"
+import (
+	"VKAlgorithmsCourse/Hw3"
+)
 
 func main() {
-	//Hw1.Problem1()
-
-	Hw2.Problem1()
+	Hw3.Problem6()
 }
